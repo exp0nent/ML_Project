@@ -23,3 +23,6 @@ setup(
     packages=find_packages(),
     install_requires = get_requirements('requirements.txt')
 )
+
+"""setup.py is a Python script that plays a central role in packaging and distributing Python projects, particularly when using the setuptools 
+library. It acts as the configuration file and interface for various packaging tasks."""
